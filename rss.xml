@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Profeysounet, Tino Turner, DoubleIchiouBoy, Blacksheep,Prof, Profeysito, Jolies Bouclettes]]></title>
+        <description><![CDATA[Profeysounet, Tino Turner, DoubleIchiouBoy, Blacksheep,Prof, Profeysito, Jolies Bouclettes]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Mar 2016 08:29:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome Homies!]]></title>
+            <description><![CDATA[<article><h1>Welcome Homies!</h1><p>Bienvenue sur le site de votre Boy Profeys, votre MC touffu tout Fou!</p></article>]]></description>
+            <link>undefinedwelcome-homies/index.html</link>
+            <guid isPermaLink="false">5d770707-92ad-4334-ad35-e30d5c09e1db</guid>
+            <pubDate>Mon, 21 Mar 2016 08:29:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
