@@ -1,33 +1,28 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: "Auteur, chanteur, compositeur, interprète, né en 1985 en Seine et Marne.\nC’est en 2009 qu’il débute ses projets musicaux avec son collectif le \n« Crumble Campus » son premier EP « So Crumblicious » sort en 2010."
-datePublished: '2016-03-21T08:29:33.575Z'
-dateModified: '2016-03-21T08:06:02.586Z'
-title: 'Welcome Homies!'
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-26T07:23:43.508Z'
 sourcePath: _posts/2016-03-21-welcome-homies.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-26T07:23:43.064Z'
+title: ''
+publisher: {}
+description: 'Bienvenue sur le site de votre Boy Profeys, votre MC touffu tout Fou!'
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: welcome-homies/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8d90ad8-8cb7-4d82-a14b-3c6317e62b8b.jpg)
-
 Bienvenue sur le site de votre Boy Profeys, votre MC touffu tout Fou!
 
-Faites comme chez vous.Ici il y aura de bonnes Vibes, de l'émotion, de la basse, des rimes, du rire bref que du bonheur. Un grand  grand merci à tous ceux qui me soutiennent depuis le début, pleins de surprises arrivent, soyez prêt!
-
 Ichiou!
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b08c76c846aa4405c91f2aadec8addd22de02793.jpg)
+
+Faites comme chez vous.Ici il y aura de bonnes Vibes, de l'émotion, de la basse, des rimes, du rire bref que du bonheur. Un grand grand merci à tous ceux qui me soutiennent depuis le début, pleins de surprises arrivent, soyez prêt!
 
 Votre Boy Prof
