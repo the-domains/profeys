@@ -1,7 +1,18 @@
+layout_spectrum: 0.4239797708578408
+typography_spectrum: 0.29463420854881406
+color:
+  brandColors:
+    - '#2DE9DB'
+    - '#BBF7EF'
+    - '#2B2122'
+    - '#31AFA4'
+    - '#A4967C'
+  brandStrength: 0.33084321417845786
+  lightness: 0.1454534693621099
+  saturation: 0.49642187682911754
+  rhythmicContrast: 0.3877571865450591
 name: Profeys
 favicon: null
-layout_spectrum: 0.07769
-typography_spectrum: 0.5862712461967021
 title: Bienvenue sur la page du Boy Prof
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#ffffff'
-    - '#ff4900'
-    - '#959597'
-    - '#912b02'
-  brandStrength: 0.1875
-  lightness: 0.5252696117386222
-  saturation: 0.1875
-  rhythmicContrast: 0.25
 purpose: []
